@@ -127,4 +127,4 @@ const PongGame = () => {
   );
 };
 
-
+export default PongGame;
